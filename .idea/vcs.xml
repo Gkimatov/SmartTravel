@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/SmartTravel" vcs="Git" />
+=======
+>>>>>>> 451461dead4e2af7c71d1425d909b1736f8807e3
   </component>
 </project>
